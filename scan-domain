@@ -1,0 +1,31 @@
+#!/bin/bash
+# =========================================================================== #
+#            MIT License Copyright (c) 2022 Kris Nóva <kris@nivenly.com>      #
+#                                                                             #
+#                 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓                 #
+#                 ┃   ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗   ┃                 #
+#                 ┃   ████╗  ██║██╔═████╗██║   ██║██╔══██╗  ┃                 #
+#                 ┃   ██╔██╗ ██║██║██╔██║██║   ██║███████║  ┃                 #
+#                 ┃   ██║╚██╗██║████╔╝██║╚██╗ ██╔╝██╔══██║  ┃                 #
+#                 ┃   ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║  ┃                 #
+#                 ┃   ╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝  ┃                 #
+#                 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛                 #
+#                                                                             #
+#                        This machine kills fascists.                         #
+#                                                                             #
+# =========================================================================== #
+
+sudo -E nmap \
+  -sC \
+  --script resolveall \
+  --script-args newtargets,resolveall.hosts=$1 > out/subdomain.out
+
+IPS=$(cat out/subdomain.out  | grep "|" | cut -d " " -f 6 | grep -v "new" | grep -v "option" | grep -v "resolves" | uniq | grep -v '^$')
+IPS_COUNT=$(cat out/subdomain.out  | grep "|" | cut -d " " -f 6 | grep -v "new" | grep -v "option" | grep -v "resolves" | uniq | grep -v '^$' | wc -l)
+echo "Found $IPS_COUNT IP addresses for subdomain: $1..."
+
+for addr in $IPS; do
+    ping $addr -c 1 -W 1
+done
+
+
