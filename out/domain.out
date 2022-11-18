@@ -1,0 +1,11 @@
+//nmap.org ) at 2022-11-17 22
+
+ 
+
+|     104.244.42.194
+|     104.244.42.2
+|     104.244.42.66
+|     104.244.42.130
+|   Use the 'newtargets' script-arg to add the results as targets
+|_  Use the --resolve-all option to scan all resolved addresses without using this script.
+ 0 IP addresses (0 hosts up) scanned in 0.20 seconds

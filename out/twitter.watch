@@ -1,0 +1,462 @@
+Checking Twitter.com bruh...
+Found 115 IP addresses to check...
+Found 72 subdomains to check...
+Found 1 IP addresses for subdomain: bi-in-f26.1e100.net...
+PING 172.253.63.26 (172.253.63.26) 56(84) bytes of data.
+64 bytes from 172.253.63.26: icmp_seq=1 ttl=57 time=70.3 ms
+
+--- 172.253.63.26 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 70.311/70.311/70.311/0.000 ms
+Found 2 IP addresses for subdomain: dg-in-f26.1e100.net...
+PING 66.102.12.26 (66.102.12.26) 56(84) bytes of data.
+64 bytes from 66.102.12.26: icmp_seq=1 ttl=57 time=155 ms
+
+--- 66.102.12.26 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 155.091/155.091/155.091/0.000 ms
+PING 209.85.202.26 (209.85.202.26) 56(84) bytes of data.
+64 bytes from 209.85.202.26: icmp_seq=1 ttl=57 time=148 ms
+
+--- 209.85.202.26 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 147.876/147.876/147.876/0.000 ms
+Found 3 IP addresses for subdomain: dg-in-f27.1e100.net...
+PING 216.239.32.27 (216.239.32.27) 56(84) bytes of data.
+64 bytes from 216.239.32.27: icmp_seq=1 ttl=117 time=4.03 ms
+
+--- 216.239.32.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.033/4.033/4.033/0.000 ms
+PING 209.85.202.27 (209.85.202.27) 56(84) bytes of data.
+64 bytes from 209.85.202.27: icmp_seq=1 ttl=106 time=147 ms
+
+--- 209.85.202.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 146.869/146.869/146.869/0.000 ms
+PING 66.102.12.27 (66.102.12.27) 56(84) bytes of data.
+64 bytes from 66.102.12.27: icmp_seq=1 ttl=57 time=156 ms
+
+--- 66.102.12.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 155.718/155.718/155.718/0.000 ms
+Found 1 IP addresses for subdomain: mta10.e.twitter.com...
+PING 136.147.183.175 (136.147.183.175) 56(84) bytes of data.
+
+--- 136.147.183.175 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta11.e.twitter.com...
+PING 136.147.183.176 (136.147.183.176) 56(84) bytes of data.
+
+--- 136.147.183.176 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta12.e.twitter.com...
+PING 136.147.183.177 (136.147.183.177) 56(84) bytes of data.
+
+--- 136.147.183.177 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta13.e.twitter.com...
+PING 136.147.183.178 (136.147.183.178) 56(84) bytes of data.
+
+--- 136.147.183.178 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta14.e.twitter.com...
+PING 136.147.183.179 (136.147.183.179) 56(84) bytes of data.
+
+--- 136.147.183.179 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta15.e.twitter.com...
+PING 136.147.183.180 (136.147.183.180) 56(84) bytes of data.
+
+--- 136.147.183.180 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta16.e.twitter.com...
+PING 136.147.183.181 (136.147.183.181) 56(84) bytes of data.
+
+--- 136.147.183.181 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta20.e.twitter.com...
+PING 136.147.183.185 (136.147.183.185) 56(84) bytes of data.
+
+--- 136.147.183.185 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta21.e.twitter.com...
+PING 136.147.183.186 (136.147.183.186) 56(84) bytes of data.
+
+--- 136.147.183.186 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta22.e.twitter.com...
+PING 136.147.183.187 (136.147.183.187) 56(84) bytes of data.
+
+--- 136.147.183.187 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta23.e.twitter.com...
+PING 136.147.183.188 (136.147.183.188) 56(84) bytes of data.
+
+--- 136.147.183.188 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta24.e.twitter.com...
+PING 136.147.183.189 (136.147.183.189) 56(84) bytes of data.
+
+--- 136.147.183.189 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta25.e.twitter.com...
+PING 136.147.183.190 (136.147.183.190) 56(84) bytes of data.
+
+--- 136.147.183.190 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta26.e.twitter.com...
+PING 136.147.183.191 (136.147.183.191) 56(84) bytes of data.
+
+--- 136.147.183.191 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta2.e.twitter.com...
+PING 136.147.183.167 (136.147.183.167) 56(84) bytes of data.
+
+--- 136.147.183.167 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta31.e.twitter.com...
+PING 136.147.183.195 (136.147.183.195) 56(84) bytes of data.
+
+--- 136.147.183.195 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta3.e.twitter.com...
+PING 136.147.183.168 (136.147.183.168) 56(84) bytes of data.
+
+--- 136.147.183.168 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta4.e.twitter.com...
+PING 136.147.183.169 (136.147.183.169) 56(84) bytes of data.
+
+--- 136.147.183.169 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta5.e.twitter.com...
+PING 136.147.183.170 (136.147.183.170) 56(84) bytes of data.
+
+--- 136.147.183.170 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta64.e.twitter.com...
+PING 136.147.183.228 (136.147.183.228) 56(84) bytes of data.
+
+--- 136.147.183.228 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta65.e.twitter.com...
+PING 136.147.183.229 (136.147.183.229) 56(84) bytes of data.
+
+--- 136.147.183.229 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta66.e.twitter.com...
+PING 136.147.183.230 (136.147.183.230) 56(84) bytes of data.
+
+--- 136.147.183.230 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta71.e.twitter.com...
+PING 136.147.183.235 (136.147.183.235) 56(84) bytes of data.
+
+--- 136.147.183.235 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta72.e.twitter.com...
+PING 136.147.183.236 (136.147.183.236) 56(84) bytes of data.
+
+--- 136.147.183.236 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mta73.e.twitter.com...
+PING 136.147.183.237 (136.147.183.237) 56(84) bytes of data.
+
+--- 136.147.183.237 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mx1.twitter.com...
+PING 199.59.148.144 (199.59.148.144) 56(84) bytes of data.
+
+--- 199.59.148.144 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mx2.twitter.com...
+PING 199.59.148.205 (199.59.148.205) 56(84) bytes of data.
+
+--- 199.59.148.205 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: mx3.twitter.com...
+PING 199.59.148.207 (199.59.148.207) 56(84) bytes of data.
+64 bytes from 199.59.148.207: icmp_seq=1 ttl=54 time=23.0 ms
+
+--- 199.59.148.207 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.958/22.958/22.958/0.000 ms
+Found 1 IP addresses for subdomain: mx4.twitter.com...
+PING 199.16.156.115 (199.16.156.115) 56(84) bytes of data.
+64 bytes from 199.16.156.115: icmp_seq=1 ttl=55 time=63.0 ms
+
+--- 199.16.156.115 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 63.015/63.015/63.015/0.000 ms
+Found 1 IP addresses for subdomain: ns-1222.awsdns-24.org...
+PING 205.251.196.198 (205.251.196.198) 56(84) bytes of data.
+64 bytes from 205.251.196.198: icmp_seq=1 ttl=247 time=3.99 ms
+
+--- 205.251.196.198 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.985/3.985/3.985/0.000 ms
+Found 1 IP addresses for subdomain: ns-179.awsdns-22.com...
+PING 205.251.192.179 (205.251.192.179) 56(84) bytes of data.
+64 bytes from 205.251.192.179: icmp_seq=1 ttl=235 time=49.6 ms
+
+--- 205.251.192.179 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 49.574/49.574/49.574/0.000 ms
+Found 1 IP addresses for subdomain: ns-1987.awsdns-56.co.uk...
+PING 205.251.199.195 (205.251.199.195) 56(84) bytes of data.
+64 bytes from 205.251.199.195: icmp_seq=1 ttl=236 time=10.1 ms
+
+--- 205.251.199.195 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 10.101/10.101/10.101/0.000 ms
+Found 1 IP addresses for subdomain: ns1.p34.dynect.net...
+PING 108.59.161.34 (108.59.161.34) 56(84) bytes of data.
+
+--- 108.59.161.34 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: ns2.p34.dynect.net...
+PING 108.59.162.34 (108.59.162.34) 56(84) bytes of data.
+
+--- 108.59.162.34 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: ns3.p34.dynect.net...
+PING 108.59.163.34 (108.59.163.34) 56(84) bytes of data.
+
+--- 108.59.163.34 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: ns4.p34.dynect.net...
+PING 108.59.164.34 (108.59.164.34) 56(84) bytes of data.
+
+--- 108.59.164.34 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: ns-663.awsdns-18.net...
+PING 205.251.194.151 (205.251.194.151) 56(84) bytes of data.
+64 bytes from 205.251.194.151: icmp_seq=1 ttl=233 time=21.7 ms
+
+--- 205.251.194.151 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 21.682/21.682/21.682/0.000 ms
+Found 0 IP addresses for subdomain: r-199-59-148-11.twttr.com...
+Found 0 IP addresses for subdomain: r-199-59-148-209.twttr.com...
+Found 0 IP addresses for subdomain: r-199-59-149-200.twttr.com...
+Found 1 IP addresses for subdomain: spring-chicken-aa.twitter.com...
+PING 199.16.156.140 (199.16.156.140) 56(84) bytes of data.
+
+--- 199.16.156.140 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-ab.twitter.com...
+PING 199.16.156.141 (199.16.156.141) 56(84) bytes of data.
+
+--- 199.16.156.141 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-ac.twitter.com...
+PING 199.16.156.142 (199.16.156.142) 56(84) bytes of data.
+
+--- 199.16.156.142 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-ad.twitter.com...
+PING 199.16.156.143 (199.16.156.143) 56(84) bytes of data.
+
+--- 199.16.156.143 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-ba.twitter.com...
+PING 199.16.156.166 (199.16.156.166) 56(84) bytes of data.
+
+--- 199.16.156.166 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-bb.twitter.com...
+PING 199.16.156.167 (199.16.156.167) 56(84) bytes of data.
+
+--- 199.16.156.167 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-bc.twitter.com...
+PING 199.16.156.168 (199.16.156.168) 56(84) bytes of data.
+
+--- 199.16.156.168 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-bd.twitter.com...
+PING 199.16.156.169 (199.16.156.169) 56(84) bytes of data.
+
+--- 199.16.156.169 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-ca.twitter.com...
+PING 199.16.156.135 (199.16.156.135) 56(84) bytes of data.
+
+--- 199.16.156.135 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-cb.twitter.com...
+PING 199.16.156.136 (199.16.156.136) 56(84) bytes of data.
+
+--- 199.16.156.136 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-cc.twitter.com...
+PING 199.16.156.137 (199.16.156.137) 56(84) bytes of data.
+
+--- 199.16.156.137 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spring-chicken-cd.twitter.com...
+PING 199.16.156.138 (199.16.156.138) 56(84) bytes of data.
+
+--- 199.16.156.138 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-aa.twitter.com...
+PING 199.59.150.70 (199.59.150.70) 56(84) bytes of data.
+
+--- 199.59.150.70 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-ab.twitter.com...
+PING 199.59.150.71 (199.59.150.71) 56(84) bytes of data.
+
+--- 199.59.150.71 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-ac.twitter.com...
+PING 199.59.150.72 (199.59.150.72) 56(84) bytes of data.
+
+--- 199.59.150.72 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-ad.twitter.com...
+PING 199.59.150.73 (199.59.150.73) 56(84) bytes of data.
+
+--- 199.59.150.73 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-ba.twitter.com...
+PING 199.59.150.96 (199.59.150.96) 56(84) bytes of data.
+
+--- 199.59.150.96 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-bb.twitter.com...
+PING 199.59.150.97 (199.59.150.97) 56(84) bytes of data.
+
+--- 199.59.150.97 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-bc.twitter.com...
+PING 199.59.150.98 (199.59.150.98) 56(84) bytes of data.
+
+--- 199.59.150.98 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-bd.twitter.com...
+PING 199.59.150.99 (199.59.150.99) 56(84) bytes of data.
+
+--- 199.59.150.99 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-ca.twitter.com...
+PING 199.59.150.122 (199.59.150.122) 56(84) bytes of data.
+
+--- 199.59.150.122 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-cb.twitter.com...
+PING 199.59.150.123 (199.59.150.123) 56(84) bytes of data.
+
+--- 199.59.150.123 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-cc.twitter.com...
+PING 199.59.150.124 (199.59.150.124) 56(84) bytes of data.
+
+--- 199.59.150.124 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 1 IP addresses for subdomain: spruce-goose-cd.twitter.com...
+PING 199.59.150.125 (199.59.150.125) 56(84) bytes of data.
+
+--- 199.59.150.125 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+Found 2 IP addresses for subdomain: wa-in-f26.1e100.net...
+PING 64.233.184.26 (64.233.184.26) 56(84) bytes of data.
+64 bytes from 64.233.184.26: icmp_seq=1 ttl=105 time=150 ms
+
+--- 64.233.184.26 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 150.428/150.428/150.428/0.000 ms
+PING 66.102.12.26 (66.102.12.26) 56(84) bytes of data.
+64 bytes from 66.102.12.26: icmp_seq=1 ttl=57 time=167 ms
+
+--- 66.102.12.26 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 166.845/166.845/166.845/0.000 ms
+Found 3 IP addresses for subdomain: wa-in-f27.1e100.net...
+PING 216.239.32.27 (216.239.32.27) 56(84) bytes of data.
+64 bytes from 216.239.32.27: icmp_seq=1 ttl=117 time=2.82 ms
+
+--- 216.239.32.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 2.815/2.815/2.815/0.000 ms
+PING 66.102.12.27 (66.102.12.27) 56(84) bytes of data.
+64 bytes from 66.102.12.27: icmp_seq=1 ttl=57 time=156 ms
+
+--- 66.102.12.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 155.541/155.541/155.541/0.000 ms
+PING 64.233.184.27 (64.233.184.27) 56(84) bytes of data.
+64 bytes from 64.233.184.27: icmp_seq=1 ttl=105 time=148 ms
+
+--- 64.233.184.27 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 148.181/148.181/148.181/0.000 ms
+Found 1 IP addresses for subdomain: www2.twitter.com...
+PING 199.59.149.198 (199.59.149.198) 56(84) bytes of data.
+64 bytes from 199.59.149.198: icmp_seq=1 ttl=55 time=22.3 ms
+
+--- 199.59.149.198 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 22.295/22.295/22.295/0.000 ms
+Found 1 IP addresses for subdomain: www4.twitter.com...
+PING 199.59.149.230 (199.59.149.230) 56(84) bytes of data.
+
+--- 199.59.149.230 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
