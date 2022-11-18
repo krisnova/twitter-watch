@@ -17,8 +17,6 @@
 
 # Curl all of the Twitter subdomains from dnsdumpster.com
 
-echo "Checking Twitter.com bruh..."
-
 SUBS=$(cat twitter-sites)
 for sub in $SUBS; do
   ./scan-pretty $sub
