@@ -19,12 +19,13 @@ DNS=$(echo $1 | cut -d "," -f 1 )
 IP=$(echo $1 | cut -d "," -f 2 )
 #echo "Checking $DNS at $IP..."
 
-IS_ONLINE=$(ping -c 1 -W 1 $DNS)
+ping -c 1 -W 1 $DNS
+IS_OFFLINE=$?
 
 RECORD=$(jq --null-input \
   --arg dns "$DNS" \
   --arg ip "$IP" \
-  --arg online "$IS_ONLINE" \
-  '{"dns": $dns, "online": $online, "ip": $ip}')
+  --arg offline "$IS_OFFLINE" \
+  '{"dns": $dns, "offline": $offline, "ip": $ip}')
 
 echo $RECORD
